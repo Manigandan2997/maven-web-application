@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.144.172.146:8081/repository/tdy-1/</url>
+	      <url>http://3.144.172.146:8081/repository/tdy-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.144.172.146:8081/repository/tdy-2/</url>
+	      <url>http://3.144.172.146:8081/repository/tdy-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
