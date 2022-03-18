@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.144.6.186:8081/repository/todau-release/</url>
+	      <url>http://3.144.6.186:8081/repository/today-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
